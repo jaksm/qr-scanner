@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/jaksm/qr-scanner/static/css/main.8bc4ddfd.chunk.css",
+    "main.js": "/jaksm/qr-scanner/static/js/main.d0d6fff1.chunk.js",
+    "main.js.map": "/jaksm/qr-scanner/static/js/main.d0d6fff1.chunk.js.map",
+    "runtime-main.js": "/jaksm/qr-scanner/static/js/runtime-main.d34db889.js",
+    "runtime-main.js.map": "/jaksm/qr-scanner/static/js/runtime-main.d34db889.js.map",
+    "static/css/2.c5b05437.chunk.css": "/jaksm/qr-scanner/static/css/2.c5b05437.chunk.css",
+    "static/js/2.5e6e8c76.chunk.js": "/jaksm/qr-scanner/static/js/2.5e6e8c76.chunk.js",
+    "static/js/2.5e6e8c76.chunk.js.map": "/jaksm/qr-scanner/static/js/2.5e6e8c76.chunk.js.map",
+    "index.html": "/jaksm/qr-scanner/index.html",
+    "precache-manifest.1938e594a5d997322862dfed17edfdcd.js": "/jaksm/qr-scanner/precache-manifest.1938e594a5d997322862dfed17edfdcd.js",
+    "service-worker.js": "/jaksm/qr-scanner/service-worker.js",
+    "static/css/2.c5b05437.chunk.css.map": "/jaksm/qr-scanner/static/css/2.c5b05437.chunk.css.map",
+    "static/css/main.8bc4ddfd.chunk.css.map": "/jaksm/qr-scanner/static/css/main.8bc4ddfd.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d34db889.js",
+    "static/css/2.c5b05437.chunk.css",
+    "static/js/2.5e6e8c76.chunk.js",
+    "static/css/main.8bc4ddfd.chunk.css",
+    "static/js/main.d0d6fff1.chunk.js"
+  ]
+}
