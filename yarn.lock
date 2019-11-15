@@ -8226,7 +8226,7 @@ prompts@^2.0.1:
     kleur "^3.0.3"
     sisteransi "^1.0.3"
 
-prop-types@^15.6.2, prop-types@^15.7.2:
+prop-types@^15.6.0, prop-types@^15.6.2, prop-types@^15.7.2:
   version "15.7.2"
   resolved "https://registry.yarnpkg.com/prop-types/-/prop-types-15.7.2.tgz#52c41e75b8c87e72b9d9360e0206b99dcbffa6c5"
   integrity sha512-8QQikdH7//R2vurIJSutZ1smHYTcLpRWEOlHnzcWHmBYrOGUysKwSsrC89BCiFj3CbrfJ/nXFdJepOVrY1GCHQ==
@@ -8452,6 +8452,13 @@ react-hook-form@^3.27.0:
   version "3.27.0"
   resolved "https://registry.yarnpkg.com/react-hook-form/-/react-hook-form-3.27.0.tgz#90db31db67a7baf1f181fa32a514eb4a529062bb"
   integrity sha512-H23OVrMaQfWo2JEffgXkcG1rFTNAc+pyxeC1QgUnfsyu4XZxQJ4ZEklDPhMDxpCD4K0XMr/qFhCtQaC6pwC/5g==
+
+react-image-select-pv@^2.1.2:
+  version "2.1.2"
+  resolved "https://registry.yarnpkg.com/react-image-select-pv/-/react-image-select-pv-2.1.2.tgz#8a422c34478742c5a7637b788ee93c890653bb12"
+  integrity sha512-vozmWZIb6TanYZgfIwmQLjd/SsJAWcTIiUSS/A79t3BC3oQBYYzl3FS0GPqDOwGGBR2Va+YKaU/wFrLYRZ9SAQ==
+  dependencies:
+    prop-types "^15.6.0"
 
 react-is@^16.8.1:
   version "16.8.4"
@@ -8791,6 +8798,11 @@ requires-port@^1.0.0:
   version "1.0.0"
   resolved "https://registry.yarnpkg.com/requires-port/-/requires-port-1.0.0.tgz#925d2601d39ac485e091cf0da5c6e694dc3dcaff"
   integrity sha1-kl0mAdOaxIXgkc8NpcbmlNw9yv8=
+
+reset.css@^2.0.2:
+  version "2.0.2"
+  resolved "https://registry.yarnpkg.com/reset.css/-/reset.css-2.0.2.tgz#9c01309c820b72e8f219ebcc8e1411949604f7d7"
+  integrity sha1-nAEwnIILcujyGevMjhQRlJYE99c=
 
 resolve-cwd@^2.0.0:
   version "2.0.0"

@@ -1,0 +1,39 @@
+{
+  "results": [
+    {
+      "gender": "male",
+      "name": { "title": "Mr", "first": "Fredo", "last": "Viana" },
+      "location": {
+        "street": { "number": 5977, "name": "Rua Santa Luzia " },
+        "city": "Várzea Grande",
+        "state": "Paraná",
+        "country": "Brazil",
+        "postcode": 41840,
+        "coordinates": { "latitude": "-73.8573", "longitude": "-99.1447" },
+        "timezone": { "offset": "+9:00", "description": "Tokyo, Seoul, Osaka, Sapporo, Yakutsk" }
+      },
+      "email": "fredo.viana@example.com",
+      "login": {
+        "uuid": "6fd9af85-4602-4ef8-9ef7-8ada2cd251dd",
+        "username": "whitekoala566",
+        "password": "tongue",
+        "salt": "sycl50Ig",
+        "md5": "d85f22308608eaf2ce60c0127699ee18",
+        "sha1": "7b8b3dc1aee4a0784f20f071cd51cf3adb0cb28b",
+        "sha256": "075ab0fc68644267a4cf8567a24b0aeebf13f618ec3bb03aad519fe47c343bbd"
+      },
+      "dob": { "date": "1980-06-20T21:42:58.050Z", "age": 39 },
+      "registered": { "date": "2016-12-04T17:23:50.614Z", "age": 3 },
+      "phone": "(17) 8131-8873",
+      "cell": "(12) 4632-5131",
+      "id": { "name": "", "value": null },
+      "picture": {
+        "large": "https://randomuser.me/api/portraits/men/68.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/men/68.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/men/68.jpg"
+      },
+      "nat": "BR"
+    }
+  ],
+  "info": { "seed": "e9f8ce472ed4a18c", "results": 1, "page": 1, "version": "1.3" }
+}
